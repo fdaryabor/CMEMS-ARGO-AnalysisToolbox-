@@ -51,7 +51,7 @@ This toolbox is designed to:
 
 ## Known Issues / To Investigate
 
-- ⚠️ **Hovmöller inconsistencies**: Investigate temporal gaps, resolution mismatches, or interpolated layers affecting pattern visibility.
+- **Hovmöller inconsistencies**: Investigate temporal gaps, resolution mismatches, or interpolated layers affecting pattern visibility.
 
 ---
 
