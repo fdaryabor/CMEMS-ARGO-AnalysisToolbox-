@@ -1,0 +1,23 @@
+# MATLAB generated files
+*.asv
+*.fig
+*.mat
+*.mlx
+*.mex*
+
+# Backup and autosave files
+*.autosave
+*.bak
+*.tmp
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Hidden folders
+.vscode/
+.idea/
+__MACOSX/
+
+
